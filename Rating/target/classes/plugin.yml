@@ -1,8 +1,0 @@
-name: Rating
-version: '1.0'
-main: me.h1r0sh1m4.rating.Rating
-api-version: 1.19
-commands:
-  rating:
-    usage:
-      /rating <add|remove|reset|check|help> [player] <count>

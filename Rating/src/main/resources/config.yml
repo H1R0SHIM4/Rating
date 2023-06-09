@@ -1,6 +1,0 @@
-database:
-  host: '' # Specify the hostname or IP address of the database server
-  port: # Specify the port number on which the database is listening
-  dbname: '' # Specify the name of the database to connect
-  username: '' # Specify the username to use for the database connection
-  password: '' # Specify the password to use for the database connection

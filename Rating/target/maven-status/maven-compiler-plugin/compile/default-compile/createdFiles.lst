@@ -1,0 +1,4 @@
+me\h1r0sh1m4\rating\Rating.class
+me\h1r0sh1m4\rating\commands\ratingCMDpkg\RatingCMD.class
+me\h1r0sh1m4\rating\commands\ratingCMDpkg\RatingCompleter.class
+me\h1r0sh1m4\rating\db\MySQLDatabase.class
